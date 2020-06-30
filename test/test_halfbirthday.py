@@ -1,6 +1,5 @@
 import unittest
 import datetime
-from datetime import timedelta
 
 from more_functions.halfbirthday import half_birthday
 
